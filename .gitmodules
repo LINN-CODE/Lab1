@@ -1,3 +1,3 @@
-[submodule "Lab-1"]
+[submodule "Lab1_submodule"]
 	path = Lab-1
 	url = https://github.com/KhunAH156/Lab-1.git
