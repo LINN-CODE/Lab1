@@ -1,2 +1,2 @@
 # ET0735 - Lab 1 (Introduction to Git and Github)
-![me](https://github.com/user-attachments/assets/1ba3f60e-4d11-4f9e-9f44-ae5da640a222)
+![Screenshot 2024-11-15 123340](https://github.com/user-attachments/assets/ab0dd2aa-4803-4bed-a907-02f8322f4b9c)
